@@ -69,10 +69,6 @@ function App() {
       ): null}
       <p className="account">Before Minting the NFT please whitelist your address <a className="url" href="https://goerli.etherscan.io/address/0x4B274e77b551D60ffE3595DDA5B3eF3B40fA5B77">Here</a></p>
       <p className="account">A detailed guide how to whitelist your address <a className ="url" href="https://github.com/Maitrayee94/NFT-minting/blob/master/README.md">Here</a></p>
-<<<<<<< HEAD
-=======
-      
->>>>>>> abfc06dca5ea47fbfe941144cb605e326bc5d697
       <br />
         
         <br />
