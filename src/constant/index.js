@@ -514,7 +514,7 @@ export const ABI = [
     "stateMutability": "nonpayable",
     "type": "function"
   }
-]
+];
   export const NFT_CONTRACT_ADDRESS = "0x81334A40EfcC21Ae933f39FE1Fd9a44B7088bd08";
 
   export const WHITELIST_ABI = [
@@ -581,5 +581,5 @@ export const ABI = [
       "stateMutability": "view",
       "type": "function"
     }
-  ]
+  ];
   export const WHITELIST_CONTRACT_ADDRESS = "0x4B274e77b551D60ffE3595DDA5B3eF3B40fA5B77";
